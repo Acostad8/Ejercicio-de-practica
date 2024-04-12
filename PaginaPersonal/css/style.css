@@ -70,7 +70,7 @@ a{
 }
 .titulospro{
     text-align: left;
-    margin: 20px 0;
+    margin: 20px ;
 }
 .contenedor-header{
     width: 80%;
@@ -131,9 +131,11 @@ a{
 }
 .educacion{
     background-color: antiquewhite;
+    margin: 700px;
 
 }
 .content-education{ 
+    background-color: antiquewhite;
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 500px;
